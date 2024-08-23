@@ -1,7 +1,6 @@
-package org.example.sem4_project_api.Controller;
+package org.example.sem4_project_api.Service;
 
 import org.example.sem4_project_api.Model.Customer;
-import org.example.sem4_project_api.Service.CustomerService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

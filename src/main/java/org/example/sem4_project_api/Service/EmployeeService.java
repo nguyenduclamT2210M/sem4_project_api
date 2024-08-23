@@ -1,8 +1,6 @@
 package org.example.sem4_project_api.Service;
 
-import org.example.sem4_project_api.Model.Customer;
 import org.example.sem4_project_api.Model.Employee;
-import org.example.sem4_project_api.Repository.CustomerRepository;
 import org.example.sem4_project_api.Repository.EmployeeRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
